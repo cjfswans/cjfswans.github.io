@@ -1,0 +1,101 @@
+body{
+	background-color: #2f4f4f;
+	font-family: Geneva, Helvetica, sans-serif;
+	text-align: center;
+	color: #F0FFFF;
+	
+}
+
+h1{
+	padding: 10px;
+	font-size: 300%;
+	font-weight: bold;
+	font-family: Geneva, Helvetica, sans-serif;
+	text-align: center;
+	color: #F0FFFF;
+	
+}
+
+h2{
+	font-size: 200%;
+	color: #F0FFFF;
+}
+
+h3{
+	text-align: center;
+	font-family: Geneva, Helvetica, sans-serif;
+	font-size: 125%;
+	color: #F0FFFF;
+}
+
+h4{
+	text-align: center;
+	font-family: Geneva, Helvetica, sans-serif;
+	font-size: 75%;
+	color: #F0FFFF;
+}
+
+h5{
+	text-align: center;
+	font-family: Geneva, Helvetica, sans-serif;
+	font-size: 60%;
+	color: #F0FFFF;
+}
+
+p{
+	padding: 10px;
+	font-family: Geneva, Helvetica, sans-serif;
+	color: #F0FFFF;
+}
+
+img{
+	object-fit: contain;
+}
+blockquote{
+	font-family: Geneva, Helvetica, sans-serif;
+	color: #F0FFFF;
+	text-align: justify;
+}
+
+.footer{
+	position: fixed;
+	width:100%;
+	text-align:center;
+	color: #F0FFFF;
+	background-color: 2f4f4f;
+}
+
+nav{
+	padding: 10px;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li a{
+	display: block;
+}
+
+ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+li a{
+	display: block;
+}
+a:link{
+	color: red
+}
+a:visited{
+	color: green
+}
+a:hover{
+	color: hotpink
+}
+a:active{
+	color: blue;
+}
+
